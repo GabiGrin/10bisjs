@@ -1,0 +1,30 @@
+{
+  "name": "10bisjs",
+  "version": "1.0.0",
+  "description": "wrapper on 10bis.co.il internal apis for happier food related hacking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiGrin/10bisjs.git"
+  },
+  "keywords": [
+    "10bis",
+    "tlv",
+    "food",
+    "sibus"
+  ],
+  "author": "Gabriel Grinberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabiGrin/10bisjs/issues"
+  },
+  "homepage": "https://github.com/GabiGrin/10bisjs#readme",
+  "dependencies": {
+    "node-geocoder": "^2.21.1",
+    "promise": "^7.0.1",
+    "request": "^2.57.0"
+  }
+}
